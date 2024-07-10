@@ -1,0 +1,31 @@
+
+Q.1  Define the terms
+     1.wesite
+-> A website is a collection of files accessed through a web address,covering a 
+   particular theme or subject,and managed by a particular person or organization.
+   Websites are typically dedicated to a particular topic or purpose,such as new,
+  education,commerce,enterainment,or social media.
+
+   2.Webpage
+->  A web page is a document written in hypertext  that you can see online, using 
+  a web browser.  The term "web page" is thus a metaphor of paper pages bound
+  together into a book.
+
+   3.web browser
+->  A software application used to access information on the World Wide Web is 
+   called a Web Browser. when a user requests a web page from a particular web
+  site, the browser retrieves its files from a web server and then displays the page
+  on the user's screen.
+
+   4.webserver
+->  A web server is software and hardware that uses HTTP and other protocols to 
+   respond to client requests made over the World Wide Web.the main job of a web 
+  server is to display website content throught storing,processing and delivering 
+  webpages to users.
+
+   5.html,css
+->  HTML is a markup language used to create static web pages and web application.
+      it defines the content and structure of web content.
+->  CSS is a style sheet language responsible for the presentation of documents written
+     in a markup language.css is a cornerstone technology of the world wide web,alongside
+    Html and javascript.
